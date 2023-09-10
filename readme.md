@@ -17,9 +17,3 @@ An expense tracker application to help you in daily life money management. It al
 - **Frontend**: React JS, TailwindCSS
 - **Database**: IndexedDB, Firebase
 
-### Todo
-
-- [ ] Monthly Invoice
-- [ ] make backup & restore user friendly
-- [ ] organize code
-
